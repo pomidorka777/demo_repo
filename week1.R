@@ -2,6 +2,7 @@
 # variables
 a <- 2
 a + 2
+I HATE CSKA
 
 b <- 'data couse'
 
